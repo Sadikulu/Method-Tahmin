@@ -1,0 +1,20 @@
+methodlardan olusan list creed method
+static olarak scanner tanimlayin
+kullanicidan int alip onu listteki index e gore methodlara atayacak
+methodgetir methoduu olustur
+
+tahmin edilecek methodu * a cevir ki kullanicii gormesin
+kullanicinin tahmin hakki sectigi methodun index * 2 kadar olusan
+her yanlis tahminde yanlis tahmin sayisi Aartsin
+kullanicinin girdigi harf yildizli kisima ata yerlestir setCharAt(i, harf)
+tahmin edilecek method ile methodlardan aldigin method esit ise
+kazandin yazdir
+bu dongu yanlis tahmin sayisi tahmin hakkina esit olana kadar calissin
+bilemezse oyun bitti ve tahmin edilemeyen methodu yazdir
+
+calisma mantigi ve yapisi while dongusununkiyle aynidir.
+Tek farkli while dongusunde dongunun basinda belirttigimiz
+kosul ifadesi do-while dongusunde sonda yer almaktadir. While
+dongusunde kosul ifadesinin saglanmadigi durumda program akisi
+donguye girmeden devam eder, fakat do-while dongusunde bu kosul
+ifade sonda yer aldigindan programimiz en az 1 kere do-while icerisindeki islemleri uygular.
